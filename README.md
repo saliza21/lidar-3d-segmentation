@@ -192,7 +192,7 @@ python UNITY/interface.py
 
 ---
 
-## 📄 Licence
+## 📄 
 
-Projet académique réalisé à l'Université de Caen Normandie.  
+Projet annuel  réalisé à l'Université de Caen Normandie .  
 Toute réutilisation doit mentionner les auteurs et l'établissement.
